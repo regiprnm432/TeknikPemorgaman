@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+D:\Dokumen Tugas\TeknikPemrograman\.metadata\.plugins\org.eclipse.jdt.core
+1460602641.index
+327176769.index
+1865797976.index
+2129768233.index
+1060656482.index
+2599451553.index
+1583816097.index
